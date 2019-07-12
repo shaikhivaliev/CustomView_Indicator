@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="IndicatorView">
+        <attr name="viewSize" format="dimension"/>
+        <attr name="maxCount" format="integer"/>
+        <attr name="indicateCount" format="integer"/>
+        <attr name="indicatorsColor" format="color"/>
+    </declare-styleable>
+</resources>
